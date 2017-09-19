@@ -15,4 +15,7 @@ Learn everything you need to about the subject of this `Tutorial` project.
 
 ## Topics
 ```
+[x] Episódio 1
+[x] Episódio 2
+[x] Episódio 3
 ```
